@@ -27,13 +27,53 @@ I'm Kevin, a Computer Science graduate from Virginia Commonwealth University.
 
 🚀 I enjoy building projects that are both fun and practical, turning ideas into real applications.
 
-🛠️ Tech Stack:
-- Languages: Python, Java, JavaScript, C/C#, SQL
-- Web: HTML, CSS, React.js, React Native
-- Tools: Docker, AWS (basic), Git
+🛠️ Tech Stack
+
+💻 Languages:
+- Python
+- Java
+- JavaScript
+- SQL
+- C/C#
+- HTML
+- CSS
+
+🌐 Web Development:
+- React.js
+- React Native
+- Flask
+- Django
+- REST APIs
+- WordPress
+
+☁️ Cloud & DevOps:
+- Docker
+- AWS (Foundational)
+- Azure (Foundational)
+- Git & GitHub
+
+📊 Data & AI:
+- Pandas
+- NumPy
+- TensorFlow
+- Data Analysis
+- Machine Learning (LSTM, classification models)
+
+📈 Tools & Platforms:
+- Tableau
+- Power BI
+- Excel (Pivot Tables, VLOOKUP)
+- Figma
+- VS Code
+- IntelliJ IDEA
+
+🗄️ Databases:
+- MySQL
+- PostgreSQL (if used)
+- SQL Query Optimization
 
 📫 Currently:
-- Building personal projects
-- Improving full-stack development skills
-- Open to full-time software engineering opportunities
+- Building full-stack and data-driven applications
+- Improving frontend and backend development skills (React, Flask, APIs)
+- Interested in software engineering, frontend development, and IT/data-focused roles (IT support, data analyst, systems support)
 
