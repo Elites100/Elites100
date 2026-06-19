@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 💻 I’m interested in:
-Software Engineering (Full-Stack Development, Backend Systems)
-Data & Machine Learning Applications
-IT & Systems Support (secondary focus)
+- Software Engineering (Full-Stack Development, Backend Systems)
+- Data & Machine Learning Applications
+- IT & Systems Support (secondary focus)
 
 🚀 I enjoy building projects that are both fun and practical, turning ideas into real-world applications.
 
