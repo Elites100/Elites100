@@ -1,4 +1,5 @@
-## Hi, I’m Kevin, a Computer Science graduate from Virginia Commonwealth University. 👋
+## Hi, I’m Kevin 👋
+Computer Science graduate from Virginia Commonwealth University.
 
 <!--
 **Elites100/Elites100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
