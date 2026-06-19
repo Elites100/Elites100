@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m Kevin, a Computer Science graduate from Virginia Commonwealth University. 👋
 
 <!--
 **Elites100/Elites100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kevin, a Computer Science graduate from Virginia Commonwealth University.
-
 💻 I’m interested in:
-- Software Engineering
-- Web Development
-- Machine Learning
-- Data Analysis
-- IT Support
-- Cybersecurity 
+Software Engineering (Full-Stack Development, Backend Systems)
+Data & Machine Learning Applications
+IT & Systems Support (secondary focus)
 
-🚀 I enjoy building projects that are both fun and practical, turning ideas into real applications.
+🚀 I enjoy building projects that are both fun and practical, turning ideas into real-world applications.
 
 🛠️ Tech Stack
 
@@ -69,11 +64,11 @@ I'm Kevin, a Computer Science graduate from Virginia Commonwealth University.
 
 🗄️ Databases:
 - MySQL
-- PostgreSQL (if used)
+- PostgreSQL
 - SQL Query Optimization
 
 📫 Currently:
-- Building full-stack and data-driven applications
-- Improving frontend and backend development skills (React, Flask, APIs)
-- Interested in software engineering, frontend development, and IT/data-focused roles (IT support, data analyst, systems support)
+- Building full-stack applications with React and Flask
+- Strengthening backend APIs and frontend development
+- Open to software engineering roles (frontend, backend, and data-focused systems)
 
