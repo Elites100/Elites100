@@ -22,6 +22,8 @@ I'm Kevin, a Computer Science graduate from Virginia Commonwealth University.
 - Web Development
 - Machine Learning
 - Data Analysis
+- IT Support
+- Cybersecurity 
 
 🚀 I enjoy building projects that are both fun and practical, turning ideas into real applications.
 
